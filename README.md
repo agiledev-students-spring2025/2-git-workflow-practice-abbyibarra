@@ -7,4 +7,4 @@ What I thought made this article interesting is that it really questions how tra
 
 ## Comment:
 
-I think the article makes a great point that AI will enhance, not replace, programmers by shifting the focus to higher-level problem-solving. I also agree that those who embrace AI as a tool will have a significant advantage, much like past generations of developers who adapted to new programming paradigms.
+I think the article makes a good point that AI will enhance, not replace, programmers by shifting the focus to higher-level problem-solving. I also agree that those who embrace AI as a tool will have a significant advantage, much like past generations of developers who adapted to new programming paradigms.
